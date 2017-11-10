@@ -4,3 +4,6 @@
 [submodule "git-flight-rules"]
 	path = git-flight-rules
 	url = https://github.com/ntk148v/git-flight-rules
+[submodule "tips"]
+	path = tips
+	url = https://github.com/git-tips/tips
