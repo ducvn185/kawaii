@@ -1,2 +1,1 @@
-# kawaii
-What 's optional, let it's be
+# Cu Trọc learns git!
