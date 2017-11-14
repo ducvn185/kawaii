@@ -1,4 +1,4 @@
-# Cu Trọc learns git!
+# Cu Trọc learns got git !
 
 -Cu Troc - Thut - Giao su - Dut
 - Kien dep trai hihi
